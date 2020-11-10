@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllienvsBallon", "Assembly-CSharp-firstpass.csproj", "{2D46907F-EBE9-AE49-5AAE-56AC91DAAE27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllienvsBallon", "Assembly-CSharp.csproj", "{9E3D15D5-6B76-C630-5A5C-98057F8C7874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllienvsBallon", "Assembly-CSharp-Editor-firstpass.csproj", "{634A8887-2F0D-EA76-314E-3AB86AF39CD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D46907F-EBE9-AE49-5AAE-56AC91DAAE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D46907F-EBE9-AE49-5AAE-56AC91DAAE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D46907F-EBE9-AE49-5AAE-56AC91DAAE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D46907F-EBE9-AE49-5AAE-56AC91DAAE27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E3D15D5-6B76-C630-5A5C-98057F8C7874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3D15D5-6B76-C630-5A5C-98057F8C7874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3D15D5-6B76-C630-5A5C-98057F8C7874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3D15D5-6B76-C630-5A5C-98057F8C7874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{634A8887-2F0D-EA76-314E-3AB86AF39CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634A8887-2F0D-EA76-314E-3AB86AF39CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634A8887-2F0D-EA76-314E-3AB86AF39CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634A8887-2F0D-EA76-314E-3AB86AF39CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
